@@ -96,4 +96,4 @@ su27,1
 
 # 2.社会网络图
 
-![图片](./output/social_network.png)
+![图片](./output/social_network.png)?raw=true
